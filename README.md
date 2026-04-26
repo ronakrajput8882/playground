@@ -1,5 +1,3 @@
----
-
 ## 📌 Project Overview
 
 **TensorFlow Playground** (also known as *Deep Playground*) is a browser-based, interactive visualization tool for understanding how neural networks learn. You can configure layers, neurons, activation functions, learning rates, and datasets — all in real time, directly in your browser.
